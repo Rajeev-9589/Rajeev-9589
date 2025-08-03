@@ -10,8 +10,4 @@ Welcome to my GitHub profile!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev-9589&show_icons=true&theme=default)
-
 ✨ Thanks for visiting my profile! Have a great day!
