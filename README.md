@@ -1,6 +1,6 @@
 # Hi there, I'm Rajeev! 👋
 
-Welcome to my GitHub profile!
+Glad to See You Here!
 
 ## 🛠️ Technologies & Tools
 
